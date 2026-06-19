@@ -135,7 +135,6 @@ Sales performance improved during Q4, indicating strong seasonal demand.
 
 * Sales_Performance_Dashboard.xlsx
 * dashboard_preview.png
-* Sales_Dashboard_Interview_Preparation_Guide.pdf
 
 ---
 
