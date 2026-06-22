@@ -8,7 +8,6 @@ This project analyzes sales data and transforms raw business data into actionabl
 
 The dashboard helps stakeholders monitor sales performance, profitability, category contribution, and regional trends through interactive visualizations.
 
----
 
 ## 🎯 Business Problem
 
@@ -22,7 +21,6 @@ The goal of this project was to:
 * Evaluate regional sales contribution
 * Create an interactive dashboard for business reporting
 
----
 
 ## 📂 Dataset Description
 
@@ -37,7 +35,6 @@ The dataset contains sales transaction records with the following key fields:
 | Category   | Product category     |
 | State      | Sales region         |
 
----
 
 ## 🧹 Data Cleaning & Transformation
 
@@ -57,7 +54,6 @@ Data preprocessing was performed using **Power Query**.
 
 ✔ Prepared analysis-ready dataset
 
----
 
 ## 📈 Key Performance Indicators (KPIs)
 
@@ -68,13 +64,11 @@ The dashboard tracks the following metrics:
 * Quantity Sold
 * Profit Margin
 
----
 
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard_preview.png)
 
----
 
 ## 📌 Dashboard Components
 
@@ -101,7 +95,6 @@ Users can dynamically filter data based on:
 * State
 * Month
 
----
 
 ## 💡 Key Business Insights
 
@@ -117,7 +110,6 @@ California generated the highest sales among all states.
 
 Sales performance improved during Q4, indicating strong seasonal demand.
 
----
 
 ## 🛠 Tools & Technologies Used
 
@@ -129,14 +121,12 @@ Sales performance improved during Q4, indicating strong seasonal demand.
 | Pivot Charts | Visualization                  |
 | Slicers      | Interactive Filtering          |
 
----
 
 ## 📁 Project Files
 
 * Sales_Performance_Dashboard.xlsx
 * dashboard_preview.png
 
----
 
 ## 🚀 Skills Demonstrated
 
@@ -148,7 +138,6 @@ Sales performance improved during Q4, indicating strong seasonal demand.
 * Data Visualization
 * Analytical Thinking
 
----
 
 ## 👩‍💻 Author
 
