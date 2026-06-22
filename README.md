@@ -1,16 +1,12 @@
 # 📊 Sales Performance Dashboard
-
 Interactive Sales Performance Dashboard built using Excel, Power Query, Pivot Tables, Pivot Charts, and Slicers.
 
 ## 📌 Project Overview
-
 This project analyzes sales data and transforms raw business data into actionable insights using **Microsoft Excel**, **Power Query**, **Pivot Tables**, **Pivot Charts**, and **Slicers**.
 
 The dashboard helps stakeholders monitor sales performance, profitability, category contribution, and regional trends through interactive visualizations.
 
-
 ## 🎯 Business Problem
-
 Organizations generate large amounts of sales data every day. However, raw transactional data alone cannot support effective decision-making.
 
 The goal of this project was to:
@@ -21,9 +17,7 @@ The goal of this project was to:
 * Evaluate regional sales contribution
 * Create an interactive dashboard for business reporting
 
-
 ## 📂 Dataset Description
-
 The dataset contains sales transaction records with the following key fields:
 
 | Column     | Description          |
@@ -33,15 +27,11 @@ The dataset contains sales transaction records with the following key fields:
 | Profit     | Profit earned        |
 | Quantity   | Number of units sold |
 | Category   | Product category     |
-| State      | Sales region         |
-
 
 ## 🧹 Data Cleaning & Transformation
-
 Data preprocessing was performed using **Power Query**.
 
 ### Transformations Applied
-
 ✔ Corrected data types
 
 ✔ Created Month column
@@ -54,50 +44,33 @@ Data preprocessing was performed using **Power Query**.
 
 ✔ Prepared analysis-ready dataset
 
-
 ## 📈 Key Performance Indicators (KPIs)
-
 The dashboard tracks the following metrics:
-
 * Total Sales
 * Total Profit
 * Quantity Sold
 * Profit Margin
 
-
 ## 📊 Dashboard Preview
 
 ![Dashboard](dashboard_preview.png)
 
-
 ## 📌 Dashboard Components
-
 ### Monthly Sales Trend
-
 * Visualizes revenue movement over time
 * Helps identify seasonal patterns
-
 ### Category-wise Sales Analysis
-
 * Compares sales across product categories
 * Identifies top-performing categories
-
-### Regional Performance Analysis
-
+### Regional Performance Analysis  
 * Highlights top contributing states
 * Supports geographical decision-making
-
 ### Interactive Slicers
-
 Users can dynamically filter data based on:
-
 * Category
 * State
 * Month
-
-
 ## 💡 Key Business Insights
-
 ### Insight 1
 
 Technology category contributed significantly to overall sales revenue.
@@ -110,9 +83,7 @@ California generated the highest sales among all states.
 
 Sales performance improved during Q4, indicating strong seasonal demand.
 
-
 ## 🛠 Tools & Technologies Used
-
 | Tool         | Purpose                        |
 | ------------ | ------------------------------ |
 | Excel        | Data Analysis                  |
@@ -121,15 +92,11 @@ Sales performance improved during Q4, indicating strong seasonal demand.
 | Pivot Charts | Visualization                  |
 | Slicers      | Interactive Filtering          |
 
-
 ## 📁 Project Files
-
 * Sales_Performance_Dashboard.xlsx
 * dashboard_preview.png
-
-
+  
 ## 🚀 Skills Demonstrated
-
 * Data Cleaning
 * Data Transformation
 * Dashboard Development
@@ -137,10 +104,8 @@ Sales performance improved during Q4, indicating strong seasonal demand.
 * Business Intelligence
 * Data Visualization
 * Analytical Thinking
-
-
+---
 ## 👩‍💻 Author
-
 **Sravanthi**
 
-Aspiring Data Analyst | Business Analyst | Data Science Enthusiast
+| State      | Sales region         |
